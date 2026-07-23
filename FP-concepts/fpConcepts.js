@@ -56,4 +56,3 @@ console.log(
   cartProducts[0].price,
   cartProducts[0].currency,
 );
-console.log(cartProducts);
